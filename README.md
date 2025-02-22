@@ -27,7 +27,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-![image](https://github.com/user-attachments/assets/9e21cc19-b72e-4c5f-8497-005300801024)
+![image](https://github.com/user-attachments/assets/b313e08b-23da-4288-916d-096201d4ba15)
+
 
 <p>
 User signs into the support website and submits ticket.
