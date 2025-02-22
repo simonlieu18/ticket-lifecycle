@@ -31,22 +31,17 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 <p>
-User signs into the support website and submits ticket.
+The user signs into the support website and submits a ticket.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+![image](https://github.com/user-attachments/assets/c783d8f6-2471-43a1-b813-82c38d967992)
+
+
+![image](https://github.com/user-attachments/assets/4bdb04db-6104-4a93-ae3e-c7c015a54dc4)
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As an agent resolve tickets as needed.
 </p>
 <br />
