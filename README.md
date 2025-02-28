@@ -27,21 +27,34 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-![image](https://github.com/user-attachments/assets/b313e08b-23da-4288-916d-096201d4ba15)
-
+![image](https://github.com/user-attachments/assets/d1f25c5c-c7dc-4809-b27f-f5c4f6e4456c)
 
 <p>
 The user signs into the support website and submits a ticket.
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/cbddc40b-15e8-499a-9b6c-05bc56c3daf2)
 
-![image](https://github.com/user-attachments/assets/c783d8f6-2471-43a1-b813-82c38d967992)
-
-
-![image](https://github.com/user-attachments/assets/4bdb04db-6104-4a93-ae3e-c7c015a54dc4)
 
 <p>
-As an agent resolve tickets as needed.
+An agent notices that this is an online banking issue, so the ticket is forwarded to them.
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/2ffcd453-f17f-424d-bf2c-dc7b0e0959af)
+
+
+<p>
+An online banking support agent, John, takes over the ticket. He assigns a SLA plan to the ticket, marks it as emergency priority, and changes the help topic to "Business Critical Outage" since the whole department is unable to access.
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/7ef9a940-73ac-4ff4-a677-53b213c01a12)
+![image](https://github.com/user-attachments/assets/da547482-acd4-4c78-8e52-d93cf211ec0f)
+
+
+<p>
+The agent resolves this issue and notifies the user through the ticket. Then proceeds to mark the ticket as "resolved".
 </p>
 <br />
